@@ -1,4 +1,4 @@
-# desafio_SPA
+# SPA de calendário de tarefas
 
 ## Desafio
 Construir uma SPA de calendário de tarefas do dia utilizando uma
