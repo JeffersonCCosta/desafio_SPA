@@ -13,10 +13,10 @@ performance, segurança e escalabilidade.
     - Data e hora que a tarefa acontecerá
     - Tempo de duração
 - Edição de tarefa
-  - Remoção de tarefa
-  - Permitir que o usuário escolha a forma de visualização das tarefas por dia,
+- Remoção de tarefa
+- Permitir que o usuário escolha a forma de visualização das tarefas por dia,
 semana ou mês
-  - Campo de busca de tarefas pelo titulo
+- Campo de busca de tarefas pelo titulo
 
 ### Nível Júnior
 - Implemente o maior número de itens possíveis descritos no setor de
